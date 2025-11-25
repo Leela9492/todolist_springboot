@@ -5,11 +5,17 @@ This project is a simple To-Do List web application built using Spring Boot. The
 Features:
 =========
 Add new tasks using the input text box.
+
 Toggle button to update task status (completed / not completed).
+
 Delete button to remove tasks permanently.
+
 Tasks are stored in a MySQL database for persistence.
+
 Server-side rendering using Thymeleaf.
+
 Hibernate ORM for database operations.
+
 Lombok used to reduce boilerplate code.
 
 Technologies Used:
