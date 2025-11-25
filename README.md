@@ -62,6 +62,8 @@ Configure the MySQL database connection in application.properties.
 
 Run the Spring Boot application using your IDE through tomcat server(supprotable version is v11 of tomcat server).
 
+Before running the application, you must update the MySQL Driver URL, database username, and password with your system credentials.
+
 Open http://localhost:8080
  in your browser to access the application.
 
